@@ -1,4 +1,6 @@
 [core]
     remote = main
+[cache]
+    dir = //192.168.4.204/dna/test-dvc-linux/cache
 ['remote "main"']
     url = //192.168.4.204/dna/test-dvc-linux
