@@ -3,4 +3,4 @@
 [cache]
     dir = //192.168.4.204/dna/test-dvc-linux/cache
 ['remote "main"']
-    url = //192.162.4.204/dna/test-dvc-linux
+    url = //192.168.4.204/dna/test-dvc-linux
